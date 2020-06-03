@@ -1,0 +1,27 @@
+_repo: One-Thousand-Ways-to-Make-a-Living-or-An-Encyclop0xe6dia-of-Plans-to-Make-Money_62231
+_version: 0.0.1
+alternative_title:
+- 1000 Ways to Make a Living; or, An Encyclopædia of Plans to Make Money
+- 1,000 Ways to Make a Living; or, An Encyclopædia of Plans to Make Money
+creator:
+  author:
+    agent_name: Dunphy, Harold Morse
+    alias: Dunphy, Harold M. (Harold Morse)
+    gutenberg_agent_id: '51842'
+    url: http://www.gutenberg.org/2009/agents/51842
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62231'
+  lccn: '20007571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Occupations'
+- GITenberg
+title: One Thousand Ways to Make a Living; or, An Encyclopædia of Plans to Make Money
+url: http://www.gutenberg.org/ebooks/62231
